@@ -4,5 +4,5 @@ User-agent: bingbot
 Allow: /
 
 User-agent: *
-Allow: /
+Host: https://darkcloud4.github.io/news/
 Sitemap:https://darkcloud4.github.io/news/sitemap.xml
